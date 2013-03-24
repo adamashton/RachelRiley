@@ -1,7 +1,7 @@
-RachelRiley
-===========
+Rachel Riley
+============
 
-Attempts to solves the number game seen in Countdown.
+Attempts to solve the number game seen in Countdown.
 
 Usage
 =====
